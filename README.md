@@ -6,7 +6,7 @@
 2.Count no of Char,Words,Lines from a file\
 3.Find word which contain multiple vowels\
 4.Finite automata for identifying keywords from file\
-5.Pass1 assembler\
+5.Pass1 assembler
   
   Cycle 2
   
