@@ -11,7 +11,8 @@
   Cycle 2
   
 6.Pass2 assembler\
-7.Top Down Parser
+7.Top Down Parser\
+8.Shift Reduce Parser
 
-two more program will updated shortly
+one more program will updated shortly
   
